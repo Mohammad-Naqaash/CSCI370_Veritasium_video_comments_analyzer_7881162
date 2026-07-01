@@ -38,6 +38,8 @@ https://ollama.com
 - ollama pull nomic-embed-text
 - ollama pull embeddinggemma
 
+  And then type `ollama list`, if you can a list of your models there, then that means they've have been installed.
+
 To make sure no errors occur or no processes get stuck anywhere, make sure the Ollama app is running in the background or make sure the Ollama app icon is visible in the taskbar. 
 
 ## FAISS Vector Store

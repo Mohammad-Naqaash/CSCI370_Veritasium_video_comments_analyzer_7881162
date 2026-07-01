@@ -35,6 +35,8 @@ https://ollama.com
 - ollama pull nomic-embed-text
 - ollama pull embeddinggemma
 
+## Rebuild the faiss
+
 # After all of this you are ready ot open the dashboard/ Run the application:
 
 **Important** The two main files that are of concern are the **Processed comments/Veritasium_comments_modeling_topics_3.0.csv** and **veritasium_faiss_store_2/**, do not change their names or locations.

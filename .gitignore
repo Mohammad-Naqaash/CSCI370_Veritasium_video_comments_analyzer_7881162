@@ -1,0 +1,8 @@
+venv/
+veritasium_faiss_store_2/
+__pycache__/
+*.pyc
+*.db
+mlruns/
+.vscode/
+test.py

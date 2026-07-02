@@ -11,6 +11,8 @@ This can work on both python versions 3.10 and 3.11, but 3.11 is recommended.
 
 * Download the folder and open the folder in **Visual Studio Code**.
 
+**Very Important**: When you download the this GitHub zip folder and you have extracted the files, make sure to choose the correct folder and move it out into your main C:\ drive area. 
+
 * Open terminal and create the venv folder:
 `py -m venv venv`
 
